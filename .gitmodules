@@ -1,6 +1,8 @@
 [submodule "mods/clv"]
 	path = mods/clv
 	url = https://github.com/m0zgen/create-local-virtualhost
+	ignore = dirty
 [submodule "mods/boot-info"]
 	path = mods/boot-info
 	url = https://github.com/m0zgen/boot-info
+	ignore = dirty
